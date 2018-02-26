@@ -42,3 +42,7 @@ quite similar to arrays or linked lists, etc.) but this generally cover most of 
 * Lookup is fast - not quite as fast as an array, but almost
 * Already sorted - sorts as you build in almost all situations
 * Rapidly becomes huge, even with very little data present, not great if space is at a premium
+
+### Credit
+
+Thanks to Doug Lloyed and of course Prof. David .J Malan from Harvard University for their time and effort.
