@@ -45,4 +45,5 @@ quite similar to arrays or linked lists, etc.) but this generally cover most of 
 
 ### Credit
 
-Thanks to Doug Lloyed and of course Prof. David .J Malan from Harvard University for their time and effort.
+Thanks to Doug Lloyed and of course Prof. David .J Malan from Harvard University for their time and effort providing the books and lectures for this.
+(c) 2018
